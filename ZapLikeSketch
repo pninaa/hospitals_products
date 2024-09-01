@@ -304,12 +304,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Zckoz27CpbK_-C5ylgSP-81" value="PK,FK2" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="280" y="440" width="60" height="60" as="geometry">
+          <mxGeometry x="280" y="458" width="60" height="60" as="geometry">
             <mxRectangle width="60" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Zckoz27CpbK_-C5ylgSP-82" value="hosp_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="340" y="430" width="250" height="60" as="geometry">
+          <mxGeometry x="340" y="458" width="250" height="60" as="geometry">
             <mxRectangle width="250" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
