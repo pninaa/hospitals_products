@@ -20,6 +20,9 @@
       },
       "api": {
         "backend": {}
+      },
+      "auth": {
+        "hospitalsproducts5e711f6a": {}
       }
     }
   }
