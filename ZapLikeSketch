@@ -346,7 +346,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Zckoz27CpbK_-C5ylgSP-103" value="products_ratings" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="750" width="215" height="240" as="geometry" />
+          <mxGeometry x="335" y="750" width="215" height="280" as="geometry" />
         </mxCell>
         <mxCell id="Zckoz27CpbK_-C5ylgSP-104" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="Zckoz27CpbK_-C5ylgSP-103">
           <mxGeometry y="30" width="215" height="30" as="geometry" />
@@ -411,6 +411,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Zckoz27CpbK_-C5ylgSP-118" value="rating_datetime" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="369" y="989" width="180" height="30" as="geometry">
+            <mxRectangle width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zckoz27CpbK_-C5ylgSP-119" value="rating_comment" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="960" width="180" height="30" as="geometry">
             <mxRectangle width="180" height="30" as="alternateBounds" />
           </mxGeometry>
