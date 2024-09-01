@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/backend": {
+      "name": "/backend",
+      "lambdaFunction": "hospitalsproductsef3fe4ef",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

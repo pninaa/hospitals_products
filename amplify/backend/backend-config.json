@@ -1,0 +1,43 @@
+{
+  "api": {
+    "backend": {
+      "dependsOn": [
+        {
+          "attributes": [
+            "Name",
+            "Arn"
+          ],
+          "category": "function",
+          "resourceName": "hospitalsproductsef3fe4ef"
+        }
+      ],
+      "providerPlugin": "awscloudformation",
+      "service": "API Gateway"
+    }
+  },
+  "function": {
+    "hospitalsproductsef3fe4ef": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  },
+  "parameters": {
+    "AMPLIFY_function_hospitalsproductsef3fe4ef_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "hospitalsproductsef3fe4ef"
+        }
+      ]
+    },
+    "AMPLIFY_function_hospitalsproductsef3fe4ef_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "hospitalsproductsef3fe4ef"
+        }
+      ]
+    }
+  }
+}
