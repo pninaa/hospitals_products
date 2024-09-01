@@ -2,6 +2,11 @@ import logo from './logo.svg';
 import classNames from 'classnames'
 import './App.css';
 import {useState} from 'react';
+import {Amplify} from 'aws-amplify';
+import config from "./aws-exports";
+import {withAuthenticator} from "@aws-amplify/ui-react";
+
+Amplify.configure(config);
 
 function App() {
 
